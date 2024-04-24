@@ -1,0 +1,10 @@
+[user]
+	email = 1515629148@qq.com
+	name = jmr
+[core]
+	editor = vim
+[color]
+	ui = true
+
+[alias]
+	graph = log --all --graph --decorate --oneline
